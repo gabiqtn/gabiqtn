@@ -1,7 +1,7 @@
 ## Olá! Eu sou o UnknownBeast
 
 - 📷 Developer Back and Front-end
-- 🔮 Estudando MongoDB
+- 🔮 Estudando Java
 - 🎆 Pronomus: ele/dele
 
 <div>
