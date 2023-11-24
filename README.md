@@ -3,6 +3,7 @@
 - 📷 Developer Back and Front-end
 - 🔮 Estudando C#
 - 🎆 Pronomus: ele/dele
+- 📞 Contato: 21 97953-1358 (WhatsApp) / unknownbeast. (Discord) / unknownbeast123410@gmail.com (Email)
 
 <div>
   <a href="htpps://github.com/unknownbeast10">
