@@ -1,7 +1,7 @@
 ## Olá! Eu sou o UnknownBeast
 
 - 📷 Developer Back and Front-end
-- 🔮 Estudando Java
+- 🔮 Estudando C#
 - 🎆 Pronomus: ele/dele
 
 <div>
