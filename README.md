@@ -1,29 +1,18 @@
-## Olá! Eu sou o UnknownBeast
+# 💫 About Me:
+📁 Hello, my name is Gabriel.<br>🌟 I'm 14 years old and I'm a software developer<br>📕 Currently studying Java and Kotlin, wanting to go to Mobile Dev.<br>🎲 For now my focus and specialization is Back-end<br><br>🎨 Portfolio: Coming Soon...
 
-- 📷 Developer Back and Front-end
-- 🔮 Estudando C#
-- 🎆 Pronomus: ele/dele
-- 📞 Contato: 21 97953-1358 (WhatsApp) / unknownbeast. (Discord) / unknownbeast123410@gmail.com (Email)
 
-<div>
-  <a href="htpps://github.com/unknownbeast10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unknownbeast10&show_icons=true&theme=dracula&include_all_commits=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknownbeast10&layout=compact&langs_count=16&theme=dracula">
-</div>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/vX9KWzEBYm) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/g4briel.quintanilha) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Cpi_QGG6spwgfcC-bb7L69g) 
 
-<div style="display: inline_block"><br>
-  <img height="30" aling="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="30" aling="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img height="30" aling="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height="30" aling="center" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="30" aling="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="30" aling="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
-  <img height="30" aling="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
-  <img height="30" aling="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-</div>
+# 💻 Tech Stack:
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=UnknownBeast10&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=UnknownBeast10&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownBeast10&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div> 
-  <a href="https://www.youtube.com/channel/UCpi_QGG6spwgfcC-bb7L69g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/_.gab.sad._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/unknownbeast0232" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=UnknownBeast10&icon=5&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
