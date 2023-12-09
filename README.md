@@ -3,8 +3,6 @@
 
 <div display="inline-block">
     <img src="https://github-readme-stats.vercel.app/api?username=UnknownBeast10&theme=dracula">
-    <img widht="100px" height="194" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula
-    ">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Unknown-Js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
