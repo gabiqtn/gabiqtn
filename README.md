@@ -3,7 +3,7 @@
 
 <div display="inline-block">
     <img src="https://github-readme-stats.vercel.app/api?username=UnknownBeast10&theme=dracula">
-    <img width="400px" height="194" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula
+    <img height="194" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula
     ">
 </div>
 <div style="display: inline_block"><br>
