@@ -4,7 +4,7 @@
 <div display="inline-block">
     <img src="https://github-readme-stats.vercel.app/api?username=UnknownBeast10&theme=dracula">
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block; margin-right: 5px"><br>
   <img align="center" alt="Unknown-Js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Unknown-Lua" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
   <img align="center" alt="Unknown-Csharp"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
