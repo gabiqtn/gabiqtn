@@ -1,5 +1,5 @@
 # 💫 About Me:
-📁 Hello, my name is Gabriel.<br>🌟 I'm 14 years old and I'm a software developer<br>📕 Now studying Java.<br>🎲 For now my focus and specialization is Back-end.
+📁 Hello, my name is Gabriel.<br>🌟 I'm 14 years old and I'm a software developer<br>📕 Now studying c++.<br>🎲 For now my focus and specialization is Back-end.
 
 <div display="inline-block">
     <img src="https://github-readme-stats.vercel.app/api?username=UnknownBeast10&theme=dracula">
