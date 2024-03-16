@@ -2,7 +2,7 @@
 📁 Hello, my name is Gabriel.<br>🌟 I'm 14 years old and I'm a software developer<br>📕 Now studying C.<br>🎲 For now my focus and specialization is Back-end.
 
 <div display="inline-block">
-    <img src="https://github-readme-stats.vercel.app/api?username=UnknownBeast10&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api?username=gabiqtn&theme=dracula">
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="Unknown-Js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
