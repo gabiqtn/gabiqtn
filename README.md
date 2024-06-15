@@ -4,15 +4,21 @@
 <div display="inline-block">
     <img src="https://github-readme-stats.vercel.app/api?username=gabiqtn&theme=dracula">
 </div>
-<div style="display: inline_block"><br> 
+<div style="display: inline_block">
+    <h1 color="white" font-size="23px" aling="center">Languages</h1>
+    <br>
     <img align="center" alt="Unknown-Js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Unknown-Ts" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-    <img align="center" alt="Unknown-React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-    <img align="center" alt="Unknown-NextJs" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
     <img align="center" alt="Unknown-Lua" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
     <img align="center" alt="Unknown-Csharp"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Unknown-Java"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img align="center" alt="Unknown-C"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+</div>
+<div>
+    <h1 font-size="23px" color="white" aling="center">Frameworks</h1>
+    <br>
+    <img style="display: inline_block" align="center" alt="Unknown-React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img style="display: inline_block" align="center" alt="Unknown-NextJs" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 </div>
   
 ##
