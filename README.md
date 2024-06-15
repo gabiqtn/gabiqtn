@@ -5,7 +5,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=gabiqtn&theme=dracula">
 </div>
 <div style="display: inline_block"><br> 
-    <img style="display: flex" align="center" alt="Unknown-Vs" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
     <img align="center" alt="Unknown-Js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Unknown-Ts" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
     <img align="center" alt="Unknown-React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
