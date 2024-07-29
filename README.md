@@ -7,7 +7,7 @@
 <div style="display: inline_block">
     <h1 color="white" font-size="23px" aling="center">Languages</h1>
     <br>
-    <img align="center" alt="Unknown-Js" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://skillicons.dev/icons?i=java)">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
     <img align="center" alt="Unknown-Ts" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
     <img align="center" alt="Unknown-Lua" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
     <img align="center" alt="Unknown-Csharp"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
