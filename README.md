@@ -18,8 +18,8 @@
     <img align="center" src="https://skillicons.dev/icons?i=linux,windows,idea,vscode,visualstudio,github,git,gcp,figma" />
 </div>
 <div> 
-  <a href="https://www.youtube.com/channel/UCpi_QGG6spwgfcC-bb7L69g](https://www.youtube.com/@beatslofiyt" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=DreamyBeats-Youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/g4briel.quintanilha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@beatslofiyt" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/g4bi.qtn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@1151549556903919776" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:unknownbeast123410@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
