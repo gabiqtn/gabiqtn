@@ -5,17 +5,17 @@
 <div style="display: inline_block">
     <h1 color="white" font-size="23px" aling="center">Languages</h1>
     <br>
-    <img align="center" src="https://skillicons.dev/icons?i=java,c,js,ts,cs,lua" />
+    <img align="center" src="https://skillicons.dev/icons?i=java,c,ts,cs" />
 </div>
 <div>
     <h1 font-size="23px" color="white" aling="center">Technologies</h1>
     <br>
-    <img align="center" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,spring,gradle,mysql,mongodb,firebase" />
+    <img align="center" src="https://skillicons.dev/icons?i=react,tailwind,sass,spring,gradle,mysql,mongodb" />
 </div>
 </div>
     <h1 font-size="23px" color="white" aling="center">Tools</h1>
     <br>
-    <img align="center" src="https://skillicons.dev/icons?i=linux,windows,idea,vscode,visualstudio,github,git,gcp,figma" />
+    <img align="center" src="https://skillicons.dev/icons?i=linux,windows,idea,vscode,github,git,gcp" />
     <br>
 </div>
 <div> 
