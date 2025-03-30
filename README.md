@@ -5,7 +5,7 @@
 <div style="display: inline_block">
     <h1 color="white" font-size="23px" aling="center">Languages</h1>
     <br>
-    <img align="center" src="https://skillicons.dev/icons?i=java,rust,c,js,ts,cs" />
+    <img align="center" src="https://skillicons.dev/icons?i=java,c,cs,rust,js,ts" />
 </div>
 <div>
     <h1 font-size="23px" color="white" aling="center">Technologies</h1>
