@@ -10,7 +10,7 @@
 <div>
     <h1 font-size="23px" color="white" aling="center">Technologies</h1>
     <br>
-    <img align="center" src="https://skillicons.dev/icons?i=react,spring,gradle,mysql,mongodb,postgres,gradle,maven" />
+    <img align="center" src="https://skillicons.dev/icons?i=react,spring,gradle,mysql,mongodb,postgres,maven" />
 </div>
 </div>
     <h1 font-size="23px" color="white" aling="center">Tools</h1>
